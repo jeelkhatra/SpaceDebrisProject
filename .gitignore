@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.log
+desktop.ini
+app_backup.py
+test_orbit.py.py
+orbit_test.html
